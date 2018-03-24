@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anna's Memory Game
 
 You can use the [editor on GitHub](https://github.com/annat3truong/memory-game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
